@@ -39,4 +39,4 @@ A simple yet powerful Flutter app to browse meals by category, filter them based
 
 Want to try the app without building it?
 
-👉 [Download the APK](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/app-release.apk)
+👉 [Download the APK](https://github.com/Yousif-Mohamed99/Meals-App/releases/download/v1.0.0/app-release.apk)
